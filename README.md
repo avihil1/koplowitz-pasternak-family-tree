@@ -5,6 +5,7 @@ the four-page `Koplowitz_Pasternak.pdf` supplied by Hillel. Includes **189 entri
 126 entries in the descendant line and 63 spouse entries (one explicitly unnamed).
 Repeated names are separate entries unless the source explicitly identifies them as one person.
 
+- **[Open the graphical tree](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html)** — connected branches, search, person details, zoom, drag, expand/collapse, and fit.
 - **[Open the interactive family tree](https://avihil1.github.io/koplowitz-pasternak-family-tree/)** — search names and expand family branches.
 - **[Read the complete tree on GitHub](FAMILY_TREE.md)** — all names, dates, places and marriages.
 - **[Download the interactive tree](index.html)** — choose **Download raw file**, then open the downloaded HTML in a browser.
@@ -40,7 +41,9 @@ or identify its compiler. This archive records its claims, not independent confi
 ## Privacy
 
 The repository and GitHub Pages website are public at the owner's request.
-The tree includes the details in the supplied PDF and loads no third-party scripts, fonts, trackers, or services.
+The tree includes the details in the supplied PDF and makes no requests to third-party services.
+The graphical view reuses the D3-based layout from `avihil1/kahan-family-tree`.
+D3 v7.9.0 is bundled under `vendor/` with its upstream ISC license so the view also works offline.
 Keep the HTML beside the PDF and text/data files if you want its archive links to work locally.
 
 The browsing style and data conventions follow `avihil1/kahan-family-tree`; this archive remains separate
