@@ -1,10 +1,11 @@
 # Koplowitz–Pasternak family tree
 
-A private family archive transcribed from **Outline Descendant Report for Yeruham Koplowitz**,
+A public family archive transcribed from **Outline Descendant Report for Yeruham Koplowitz**,
 the four-page `Koplowitz_Pasternak.pdf` supplied by Hillel. Includes **189 entries across seven generations**:
 126 entries in the descendant line and 63 spouse entries (one explicitly unnamed).
 Repeated names are separate entries unless the source explicitly identifies them as one person.
 
+- **[Open the interactive family tree](https://avihil1.github.io/koplowitz-pasternak-family-tree/)** — search names and expand family branches.
 - **[Read the complete tree on GitHub](FAMILY_TREE.md)** — all names, dates, places and marriages.
 - **[Download the interactive tree](index.html)** — choose **Download raw file**, then open the downloaded HTML in a browser.
   Search includes spouses; branches expand and collapse. No installation, server, or internet connection is needed.
@@ -38,8 +39,8 @@ or identify its compiler. This archive records its claims, not independent confi
 
 ## Privacy
 
-This repository is private because the source includes relatives' full dates of birth.
-It does not publish a public website or load third-party scripts, fonts, trackers, or services.
+The repository and GitHub Pages website are public at the owner's request.
+The tree includes the details in the supplied PDF and loads no third-party scripts, fonts, trackers, or services.
 Keep the HTML beside the PDF and text/data files if you want its archive links to work locally.
 
 The browsing style and data conventions follow `avihil1/kahan-family-tree`; this archive remains separate
