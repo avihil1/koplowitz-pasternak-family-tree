@@ -14,6 +14,10 @@ Repeated names are separate entries unless the source explicitly identifies them
 - **[Structured tree](tree.json)** — UTF-8 nested data for future edits or imports.
 - **[Extracted source text](transcription.txt)** — preserves source pagination and wrapped lines.
 
+## Research
+
+[Read the Yeruham Koplowitz evidence ledger](research/yeruham-koplowitz.md). The 19 October 2026 pass found unresolved regional candidates; no new parent or spouse is established. Candidate notes are visible in both tree views.
+
 ## Reading the tree
 
 The descendant line starts with Yeruham Koplowitz and an explicitly unknown spouse.

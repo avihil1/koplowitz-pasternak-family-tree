@@ -5,9 +5,25 @@
     {
       "label": "Koplowitz_Pasternak.pdf, page 1, line 2",
       "url": "Koplowitz_Pasternak.pdf#page=1"
+    },
+    {
+      "label": "Research ledger — unresolved identities, evidence and next records (19 October 2026)",
+      "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
+    },
+    {
+      "label": "Historical JRI-Poland extract: Bytom candidate Jeruham Kopplowitz, entry 727 (index only)",
+      "url": "https://www.tresman.co.uk/tree/koplovitch2.htm"
+    },
+    {
+      "label": "FamilySearch catalogue 219939: film 1184405 / DGS 007990023 (catalogue, not original record)",
+      "url": "https://www.familysearch.org/en/search/catalog/219939"
+    },
+    {
+      "label": "Tarnowskie Gory cemetery inventory: Feitel Koplowitz, father Jerucham, section 1/18/15 (unattached lead)",
+      "url": "https://gliwicka66.pl/baza-wiedzy/inwentaryzacja-nagrobkow/"
     }
   ],
-  "note": "Report entry: Yeruham Koplowitz",
+  "note": "Report entry: Yeruham Koplowitz\n\nResearch checkpoint, 19 October 2026: identity and parentage remain unresolved. A candidate Jeruham Kopplowitz is indexed in Bytom on 15 September 1862, entry 727, with father Eliezer. Type R is unverified; this date is not assigned as a birth or death. The original has not been inspected and no record yet connects this candidate to Salomon. Eliezer is not added as an established parent. Feitel Koplowitz, whose father is indexed as Jerucham in the Tarnowskie Gory cemetery inventory, remains an unattached collateral lead. See the research ledger for evidence, limitations and exact original-record requests.",
   "spouses": [
     {
       "key": "2",
@@ -42,9 +58,21 @@
             {
               "label": "Koplowitz_Pasternak.pdf, page 1, line 5",
               "url": "Koplowitz_Pasternak.pdf#page=1"
+            },
+            {
+              "label": "Matching Marie Koplowitz nee Grunpeter death notice, PDF page 6 (OCR only; image not inspected)",
+              "url": "https://sbc.org.pl/Content/452634/PDF/iv4420-1932-136-0001.pdf#page=6"
+            },
+            {
+              "label": "Historical JRI-Poland extract: Bytom Marie, entry 1806 (index only)",
+              "url": "https://www.tresman.co.uk/tree/koplovitch2.htm"
+            },
+            {
+              "label": "Research ledger — identity and source limitations",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Marie Gruenpeter b: 05 Oct 1848, d: 17 May 1932",
+          "note": "Report entry: Marie Gruenpeter b: 05 Oct 1848, d: 17 May 1932\n\nResearch checkpoint, 19 October 2026: a matching newspaper OCR notice places Marie Koplowitz nee Grunpeter in Beuthen at Kaiserstrasse 7, dated 17 May 1932, in her 84th year. This supports a Bytom research route; the newspaper image and original vital record remain uninspected. The historical JRI extract lists entry 1806, age 83, film 1184405. No relationship to the candidate Jeruham is established by sharing a film.",
           "born": "05 Oct 1848",
           "died": "17 May 1932"
         }
