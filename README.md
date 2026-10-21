@@ -24,7 +24,9 @@ Yeruham's identity and parents remain unresolved. Candidate notes and provisiona
 
 The original report remains preserved in the PDF, transcription and original outline below. Research updates
 use the existing entries, names, relationships and browsing style; the total remains 217. The filmed Pless
-pages are typed extracts, not contemporary handwritten originals. JRI-Poland supplied the index references.
+pages first inspected were typed extracts. A later pass also inspected the handwritten Jewish birth
+registrations for Hermann and Nathan, agreeing on their dates, parents and Mezerzitz household.
+JRI-Poland supplied the initial index references.
 
 | Existing entry | Research update | Source status |
 | --- | --- | --- |
@@ -42,6 +44,11 @@ Exact image links, transcriptions, candidate distinctions and limitations are in
 Three Yeruham candidates remain separate: Bytom1857/father Natan, Bytom1862/father Eliezer,
 and Bierun1877/father Yerucham. Authenticated JOWBR research also adds Marie Gruenpeter's burial
 in Bytom New Jewish Cemetery, indexed plot1626, to her notes. No candidate is attached as a new parent.
+
+The [original-register follow-up](research/yeruham-koplowitz.md#original-register-pass--21-october-2026)
+also identifies Abraham's parents as innkeeper Jacob Koplowitz and Friederike, with their household in
+Mezerzitz, in an1870 Bytom marriage registration. This is an unattached collateral lead; no sibling or
+parent relationship to Salomon is established.
 
 ## Reading the tree
 

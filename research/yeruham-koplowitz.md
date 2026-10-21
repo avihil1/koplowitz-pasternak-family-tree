@@ -369,3 +369,118 @@ collections, with one Prussian result. A Poland choice in the new form was not r
 scope, so this is not reported as a verified Poland-only search. No claim is made that every possible
 spelling or cemetery has been exhausted. The original1903 death record and the Mezerzitz lease file
 remain the best routes to resolving Salomon's parents.
+
+### Next acquisition priority — 21 October 2026
+
+The original report gives Heinrich Herman Zvi Koplowitz's marriage to Julia Rachel Einstein as
+27 October1903 in Bruchsal (transcription, page1). This is a reported event, not an inspected marriage
+record. A full civil marriage entry, margins, and surviving supporting papers could name his parents'
+residence, establish whether Salomon was already deceased, and possibly identify his death place.
+That would provide a targeted route to Salomon's reported9 July1903 death entry and its parent fields.
+Do not assume the supporting papers survive or that the entry supplies every requested detail.
+
+The city's [official certificate form](https://bruchsal.form.cloud/formcycle/form/provide/287/), checked
+21 October2026, directs marriage events more than80 years old to Stadtarchiv Bruchsal. The
+[archive research page](https://www.bruchsal.de/erleben/kultur/stadtarchiv/forschen%2Bim%2Barchiv)
+provides the inquiry route, `stadtarchiv@bruchsal.de`. No correspondence, purchase or form submission
+was made. Availability of this specific1903 register and its supporting file remains to be confirmed.
+
+Prepared request, not sent: Bitte prüfen Sie den Heiratseintrag von Hermann / Heinrich Koplowitz
+(geboren30.06.1870), Sohn von Salomon Koplowitz und Marie geb. Grünpeter, mit Julia / Julie Rachel
+Einstein (geboren10.12.1879), laut Familienbericht am27.10.1903 in Bruchsal. Gesucht werden eine
+vollständige Aufnahme des Registereintrags einschließlich Randvermerken und, soweit vorhanden,
+die zugehörigen Beleg- oder Sammelakten. Besonders interessieren der Wohn- und Sterbeort des
+Vaters Salomon sowie die Angaben zu seinen Eltern, falls entsprechende Belege beigefügt sind.
+
+Parallel online priority: Abraham's1870 Bytom marriage, entry12/page189, film1271495, before attempting
+to connect the1907 Abraham as a sibling. Then seek the fuller1867 Pless/Nicolai marriage documentation
+for Salomon/Marie, and inspect the Mezerzitz lease file12/3115/0/12.12/4751 for named heirs or successors.
+
+### Original-register pass — 21 October 2026
+
+**New evidence:** Abraham's 1870 marriage registration places his parents' household in Mezerzitz.
+This is a stronger locality/occupation lead than the previous abbreviated index, but it does not prove
+that Abraham was Salomon's brother or identify Salomon's father.
+
+#### Abraham's marriage registration
+
+Inspected and saved [Bytom AS1317, page 189, entry 12, image 108](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS63-R9F7-F?cat=219939&i=107&lang=en),
+film1271495 / DGS007992495. Full image: `film7992495-image108.jpg`; reading crop:
+`abraham-1870-entry12-reading.png`, both in the local evidence directory.
+
+- Groom: Abraham Koplowitz,26, innkeeper living in Scharley, originating from Weichsel.
+  The modern identity of this Weichsel has not been established.
+- Father: Jacob Koplowitz, innkeeper. Decisive wording: “Sohn des Gastwirths Jacob Koplowitz”.
+- Mother: Friederike; maiden surname tentatively read **Destillieur**, not adopted as established spelling.
+  The parent passage ends with **“aus Mezerzitz”**.
+- Bride: Dorel Jodkowitz,24, Scharley; parents David Jodkowitz and Bertha nee Loewy, as indexed.
+  The parents' full name readings were not the controlling question of this pass.
+- Date distinction: the entry begins with a court notification dated24 February1870 and was entered
+  in Beuthen on26 February1870. The notification date indexed by JRI is not independently established
+  as the wedding day.
+- A word between the father and mother passages is not confidently transcribed. No conclusion about
+  either parent's being alive or deceased is drawn from that word or the absence of an obvious death marker.
+
+**Interpretation:** Salomon is documented as an innkeeper in Mezerzitz in1867/1870/1873; Jacob's
+Mezerzitz lease catalogue concerns a guest stable. Abraham's parent household now supplies an explicit
+Jacob/Friederike family in that village. These clues justify comparison, not a household merge.
+The1870 Abraham and the1907 Abraham son of Yerucham also remain unmerged until an age, spouse,
+mother or other connecting record is found. Friederike is not added as Salomon's mother and is not
+identified with the Bierun Fany/Feigla candidate.
+
+#### Handwritten Jewish birth register
+
+The publisher's [Pless Jewish birth-register page](https://siliusradicum.pl/ksiegi-metrykalne/ksiegi-urodzen-zydow-w-pszczynie/)
+links to a public Dropbox folder containing one birth-register subfolder,1847–1874. Its149 listed
+files comprise145 numbered scans plus cover/metadata cards. No marriage volume is listed in this folder.
+
+| Existing person | Inspected handwritten entry | Result |
+| --- | --- | --- |
+| Hermann | [Scan0108](https://www.dropbox.com/scl/fo/m9dl30ldwz4tcrtjs8b7y/AChavKrW8EMoO_R2mpQ7Z2o/Urodzenia%201847-1874/17_510_0_0_1_0108.JPG?rlkey=5zjgf2htcltpd84erzvnj7gzt&dl=0), right-hand page, pencil page207,1870 annual entry16 |30 June1870, parents Salomon Koplowitz and Marie nee Grunpeter, Mezerzitz household. Agrees with the typed extract. |
+| Nathan | [Scan0125](https://www.dropbox.com/scl/fo/m9dl30ldwz4tcrtjs8b7y/AAEcXiFnbgAAuTRyl_ewSrY/Urodzenia%201847-1874/17_510_0_0_1_0125.JPG?rlkey=5zjgf2htcltpd84erzvnj7gzt&dl=0), left-hand page, pencil page238,1873 annual entry32 |18 October1873, same parents and household. Agrees with the typed extract. |
+
+Both full images are saved under their publisher filenames `17_510_0_0_1_0108.JPG` and
+`17_510_0_0_1_0125.JPG`. A Nathan reading crop is saved separately. These are handwritten community
+registrations referring to court notifications. The copies and the typed extracts are related evidence,
+not independent family attestations. Neither entry names the grandparents. Existing names, dates,
+relationships and the cautious recorded-family-place wording are retained; the original-register
+citations are added to the existing entries.
+
+Calibration images inspected: scan0105, pencil pages200–201,1869 entries25–32, and scan0116,
+pencil pages222–223,1872 entries13–20. They supplied navigation, not additional target-family facts.
+
+#### Acquisition outcomes and prepared requests
+
+1. **Hermann's reported Bruchsal marriage,27 October1903:** the state-archive Jewish marriage volume
+   [J386 Bü112](https://www.leo-bw.de/en/detail/-/Detail/details/DOKUMENT/labw_findmittel_06/labw-1-440627/Bruchsal)
+   is catalogued1858–1899, so it does not cover this wedding. A1903 civil entry was not located through
+   the checked routes. Bruchsal's [official family-research guide](https://www.bruchsal.de/erleben/kultur/stadtarchiv/informationen-fuer-familienforscher)
+   and certificate form direct old civil marriage records to the city archive. A German request is
+   prepared for the complete civil entry, margins and any surviving supporting file, especially evidence
+   of Salomon's death place. Availability of the specific entry and supporting papers is unconfirmed.
+
+2. **Salomon/Marie,December1867:** the [FamilySearch Pless catalogue](https://www.familysearch.org/en/search/catalog/koha:229955)
+   supplies the known film1184446 / DGS007990060. A Nikolai place search using the selected place
+   Nikolai, Pless, Silesia, Prussia, Germany (place ID12636306) returned no Jewish-record catalogue title.
+   Removing the subject filter returned two Christian church titles; these were excluded and their
+   registers were not searched. This catalogue result is not evidence that the Jewish original is lost.
+   The independently navigated Pless publisher folder contains births only. The full1867 marriage
+   original remains an archive-acquisition question.
+
+3. **Mezerzitz lease12/3115/0/12.12/4751:** the catalogue title and1856–1878 dates remain retrievable
+   through indexed official series listings, but the live portal returned HTTP403 in the existing browser.
+   The file's contents, page count and scan availability were not inspected. No claim of undigitized or
+   missing records is made. A Polish request is prepared for access/copy information and possible family,
+   heir or successor references. It also asks about surviving Jewish marriage originals or court material
+   for the1867 Salomon/Marie entry. The current
+   [Katowice contact page](https://katowice.ap.gov.pl/ap/tekst/kontakt) supplies the central inquiry address.
+
+Prepared requests are saved locally outside the public repository as `bruchsal-request.txt` and
+`katowice-request.txt`. Both ask for availability and a cost quote before any paid work.
+Gmail draft creation returned AuthRequired; existing-browser renewal reached Google's permission screen.
+No Gmail draft was confirmed created and no email was sent. Authentication details are excluded from
+the evidence files and public tree.
+
+**Current conclusion:** the Mezerzitz Jacob/Friederike household is a useful new collateral lead.
+Salomon's parentage and the identity of his Yeruham remain unresolved. All three cemetery candidates
+stay separate and no candidate-only relative is added to the established tree.
