@@ -277,3 +277,95 @@ Find Salomon's contemporary marriage documentation from December1867 in the Ples
 his 1836 birth once birthplace is established, or his 9 July 1903 civil death entry. A record explicitly naming
 his father and preferably mother can discriminate the Bierun and Bytom candidates. The typed marriage extract
 does not supply that bridge. No evidence currently establishes Eliezer as an ancestor of the target family.
+
+### Candidate comparison: geographic priority, 21 October 2026
+
+The Bierun Jacob/Yerucham candidate is the better geographic research lead, with low confidence in any
+parentage inference. Salomon's documented household is Mezerzitz in the Pless district. Bierun's municipal
+[cemetery history](https://www.bierun.pl/turystyka/cmentarz-zydowski-bierun-stary) places its burial community
+in Bierun and neighboring villages. The Jacob Koplowitz guest-stable lease catalogue entry in Mezerzytz,
+reference12/3115/0/12.12/4751, adds a locality and inn-related activity lead. The leaseholder's identity is
+unproved: another Jacob of the surname could be meant. Neither candidate has an established age, spouse,
+or son Salomon in the records inspected. Both candidate death dates remain compatible with a son born1836.
+
+The Bierun grave index identifies Jacob's father as Yerucham; it does not identify his children. The Bytom
+extract identifies Jeruham's father as Eliezer. A Salomon gravestone reading only "son of Yerucham" could
+fit either candidate; a mother, grandfather, spouse, residence or additional linking record is needed.
+
+Additional searches and originals checked:
+
+- JRI-Poland legacy form: Koplowitz phonetic + Salomon phonetic, deaths1903–1903, all regions. The query
+  ran and returned no indexed match. This does not establish absence from surviving records.
+- Koplowitz phonetic + town Bytom exact, all types/dates:53 matches in two regional groups, including
+  50 Prussian results. The extracted tables are saved
+  outside the public repository at `/tmp/family-tree-sync-qb19whi9/jeruham-evidence/bytom-jri-comparison.json`.
+  No matching Salomon1903 death appeared in these returned results. The older1862 R entry also did not
+  appear in the current returned collections, so this search is not comprehensive burial coverage.
+- Bytom filmed register RSA J448, film1184405 / DGS007990023, printed page25, entries505–525,
+  [image194](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS69-RQ98?cat=219939&i=193&lang=en),
+  inspected at readable resolution and saved as `film7990023-image194.jpg` in the evidence directory.
+  Covers9 February–2 September1903. July entries are7 July (Bernhard Schlesinger),20 July (Adolf Trohn,
+  surname reading tentative),22 July (Rosa Friedlaender nee Schauder). No Salomon Koplowitz or9 July entry.
+  This is a narrow negative for this register, not proof of his death or burial place.
+- Bytom New Jewish Cemetery [JOWBR POL-05511](https://www.jewishgen.org/databases/cemetery/jowbrshow.php?ID=POL-05511)
+  contains3,718 burials based on the cemetery office's Polish burial list. A surname/town query reached
+  the login requirement. Person results were not inspected; no negative result is claimed. The existing
+  browser login tab was left for the user; no account, payment or correspondence was initiated.
+
+The current conclusion remains unresolved parentage. Prioritize the Bierun candidate and Mezerzitz lease
+file for investigation; retain both candidates provisionally in the tree. Seek Salomon's civil death record
+or birth record and the actual lease file before connecting either man as his established father.
+
+### Authenticated burial follow-up — 21 October 2026
+
+The user completed JewishGen login. The JOWBR surname Koplowitz (phonetic) plus town Bytom (exact) query
+then ran successfully and returned18 records, all displayed on one list without another results page.
+Town matching includes death places: two returned people are buried in Chorzow, not Bytom. The saved
+result list and five fully loaded detail pages are in the local evidence directory as
+`jowbr-bytom-18.json` and `jowbr-bytom-full-records.json`. No account data or login material is saved.
+
+**There are now three separate Yeruham candidates, not two:**
+
+| Candidate record | Father | Date and place | Identity limit |
+| --- | --- | --- | --- |
+| [Jeruham Kopplowitz, J_PRUSSIA_0004487](https://www.jewishgen.org/search/jowbr-record.php?rec=J_PRUSSIA_0004487) | Natan | Death14 September1857,25 Elul5617; Bytom Old Jewish Cemetery, register672 | New candidate. No age, spouse, child Salomon or gravestone photograph supplied. |
+| [Jeruham Kopplowitz, historical JRI extract](https://www.tresman.co.uk/tree/koplovitch2.htm) | Eliezer | R entry15 September1862, reference727, Bytom | Original entry not located. Do not merge with the1857 man or reinterpret one date as a correction of the other. |
+| [Jacob Koplowitz, Hebrew Yerucham](https://cemetery.jewish.org.pl/id_164419/info/) | Yerucham | Death2 May1877, Bierun, grave61 | Geographic research priority; no established son Salomon. |
+
+The new Natan patronymic does not establish any connection to Salomon's son Nathan. Similar names and
+possible naming customs do not resolve parentage. The geographic argument for investigating Bierun
+first remains a weak lead, and the new Bytom candidate must be considered alongside it.
+
+**Marie burial location:** [JOWBR J_PRUSSIA_0009949](https://www.jewishgen.org/search/jowbr-record.php?rec=J_PRUSSIA_0009949)
+indexes Marie Koplowitz nee Gruenpeter, death17 May1932, age83, Bytom New Jewish Cemetery, plot1626.
+The [filmed register, image283](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS69-R3RQ?cat=219939&i=282&lang=en)
+was inspected and saved: RSA J448, printed page86, entry1806, Maria Koplowitz,17 May1932, age83,
+remark `geb. Grunpeter`; the Hebrew-name column is blank. These are related index/register evidence,
+not two independent attestations. Neither names a husband or parents. The matching full maiden surname,
+death date and age support identifying her with the report's Marie. Her burial location and indexed plot
+are added to her existing tree notes; her birth, death and relationships remain unchanged.
+
+**Conflicting Salomon namesake:** [JOWBR J_PRUSSIA_0021666](https://www.jewishgen.org/search/jowbr-record.php?rec=J_PRUSSIA_0021666)
+gives Salomon Koplowitz, death6 November1909, age67, death place Beuthen, burial Chorzow/Konigshutte,
+grave712. The note reads `KOPLOWITZ Heinrich`, without specifying a relationship. It does not establish
+that Heinrich is the target's son, and the death date and implied birth circa1841/42 conflict with the
+report's1836–1903 Salomon. No date is substituted and no household merge is made. A separate Henriette
+nee Tichauer entry, J_PRUSSIA_0021667, death2 January1916, age75, Beuthen, grave820, is also kept apart;
+the burial list itself does not prove she is the1909 man's spouse.
+
+**Collateral lead:** [Abraham Koplowitz, J_PRUSSIA_0010011](https://www.jewishgen.org/search/jowbr-record.php?rec=J_PRUSSIA_0010011),
+death6 December1907, Bytom New Jewish Cemetery, plot1682, is indexed `Avraham ben Yerochav`, father
+`Yerochav`. The [filmed register image198](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS69-RQ3W?cat=219939&i=197&lang=en),
+RSA J448, page33, entry676, was inspected and saved. Its Hebrew name reads `אברהם בן ... ירוחם`
+(Avraham son of Yerucham; honorific omitted). The indexed spelling Yerochav appears to misread the final
+Hebrew letter. There is no age, mother or spouse in that entry and no established sibling link to Salomon.
+The earlier JRI Bytom marriage query also returns an Abraham, age26,24 February1870, Weichsel/Scharley,
+innkeeper, parents Jacob Koplowitz (innkeeper) and Friederike Destilliu[e]r (index spelling uncertain),
+wife Dorel Jodkowitz, entry12, page189, film1271495. These Abraham identities are not yet merged;
+the1870 marriage original is the next useful collateral check.
+
+A surname Koplowitz + given name Salomon phonetic JOWBR query returned17 matches across worldwide
+collections, with one Prussian result. A Poland choice in the new form was not reflected in the resulting
+scope, so this is not reported as a verified Poland-only search. No claim is made that every possible
+spelling or cemetery has been exhausted. The original1903 death record and the Mezerzitz lease file
+remain the best routes to resolving Salomon's parents.

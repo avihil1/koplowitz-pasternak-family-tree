@@ -7,6 +7,10 @@ Indentation follows the descendant generations. Spouses are listed immediately u
 The original report transcription below is unchanged. The browsing tree also includes the cited
 [21 October date/place research supplement](#dates-and-places--21-october-2026), with provisional matches labeled.
 
+The [burial follow-up](research/yeruham-koplowitz.md#authenticated-burial-follow-up--21-october-2026)
+adds Marie's Bytom New Jewish Cemetery burial, indexed plot1626, and keeps three Yeruham candidates
+separate: Bytom1857/father Natan, Bytom1862/father Eliezer, Bierun1877/father Yerucham.
+
 - Yeruham Koplowitz ([p. 1](Koplowitz_Pasternak.pdf#page=1))
   - Spouse: [unknown spouse] ([p. 1](Koplowitz_Pasternak.pdf#page=1))
   - Salomon Koplowitz b: 1836, d: 09 Jul 1903 ([p. 1](Koplowitz_Pasternak.pdf#page=1))

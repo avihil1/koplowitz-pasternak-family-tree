@@ -39,7 +39,9 @@ pages are typed extracts, not contemporary handwritten originals. JRI-Poland sup
 
 Exact image links, transcriptions, candidate distinctions and limitations are in the
 [evidence ledger](research/yeruham-koplowitz.md#salomon-household-and-competing-yeruham-candidates--21-october-2026).
-The Bytom Jeruham/Eliezer and Bierun Jacob/Yerucham candidates are not merged or attached as new parents.
+Three Yeruham candidates remain separate: Bytom1857/father Natan, Bytom1862/father Eliezer,
+and Bierun1877/father Yerucham. Authenticated JOWBR research also adds Marie Gruenpeter's burial
+in Bytom New Jewish Cemetery, indexed plot1626, to her notes. No candidate is attached as a new parent.
 
 ## Reading the tree
 
