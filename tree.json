@@ -1048,9 +1048,13 @@
                     {
                       "label": "Koplowitz_Pasternak.pdf, page 2, line 30",
                       "url": "Koplowitz_Pasternak.pdf#page=2"
+                    },
+                    {
+                      "label": "Kahan family tree: Shalom Kahana (reviewed 21 October 2026)",
+                      "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000009318607641"
                     }
                   ],
-                  "note": "Report entry: Ruti Pasternak b: 31 May 1946 in Hadera\nParents as grouped in the report: Erna Zipora Koplowitz + Eliezer Pasternak. This follows report placement, not independent verification.",
+                  "note": "Report entry: Ruti Pasternak b: 31 May 1946 in Hadera\nParents as grouped in the report: Erna Zipora Koplowitz + Eliezer Pasternak. This follows report placement, not independent verification.\n\nKahan addition, 21 October 2026: the Kahan tree records the same Ruti/Ruth Pasternak and Shalom Cahana/Kahana household. Family testimony identifies Ruth as the mother of all fourteen children, including Rachel (1972–1972), who is absent from the PDF. Original report entries and their order remain intact.",
                   "born": "31 May 1946 in Hadera",
                   "spouses": [
                     {
@@ -1075,9 +1079,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 2, line 32",
                           "url": "Koplowitz_Pasternak.pdf#page=2"
+                        },
+                        {
+                          "label": "Kahan family tree: Chaim Aryeh Kahana (Haim Arie) (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#haim-arie-kahana"
                         }
                       ],
-                      "note": "Report entry: Haim-Arie Cahana b: 10 Nov 1967\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Haim-Arie Cahana b: 10 Nov 1967\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "10 Nov 1967",
                       "spouses": [
                         {
@@ -1113,9 +1121,13 @@
                             {
                               "label": "Koplowitz_Pasternak.pdf, page 2, line 35",
                               "url": "Koplowitz_Pasternak.pdf#page=2"
+                            },
+                            {
+                              "label": "Kahan family tree: Ido Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#ido-kahana"
                             }
                           ],
-                          "note": "Report entry: Ido Cahana b: 01 Jun 1995\nParents as grouped in the report: Haim-Arie Cahana + Devora Yafa Bar-Shaul. This follows report placement, not independent verification.",
+                          "note": "Report entry: Ido Cahana b: 01 Jun 1995\nParents as grouped in the report: Haim-Arie Cahana + Devora Yafa Bar-Shaul. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: The PDF reports 1 June 1995; the Kahan tree retains a Geni claim of 21 June 1995. Hillel was not sure which is correct. The exact date remains unresolved; the original PDF field is retained.",
                           "born": "01 Jun 1995"
                         },
                         {
@@ -1140,6 +1152,49 @@
                             }
                           ],
                           "note": "Report entry: Uria Cahana\nParents as grouped in the report: Haim-Arie Cahana + Devora Yafa Bar-Shaul. This follows report placement, not independent verification."
+                        },
+                        {
+                          "key": "190",
+                          "name": "Tehila Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Tehila Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#tehila-kahana"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Hillel Kahana: family testimony, 15 October 2026",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#haim-arie-household--15-october-2026"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Tehila-Kahana/6000000002683180945"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Haim-Arie Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nChild of Haim Arie, identified by Hillel Kahana on 15 October 2026. Given name and sex supplied by family testimony; surname, dates, spouse and further descendants not yet documented. Maternal relationship not separately confirmed.\n\n20 October 2026 Geni source review: birth: February 21, 2003 Israel. These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.\n\nPrivate name review, 20 October 2026: the own Geni profile records Tehila Kahana and explicitly names the same two parents. The displayed surname is supported by this profile, not inferred from a parent. The family given-name spelling Tehila is retained. The Geni wording is an attributed name variant, not independent original identity proof.",
+                          "born": "2003-02-21, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "191",
+                          "name": "Yair",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Yair (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#yair-kahana"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Hillel Kahana: family testimony, 15 October 2026",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#haim-arie-household--15-october-2026"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Haim-Arie Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nChild of Haim Arie, identified by Hillel Kahana on 15 October 2026. Given name and sex supplied by family testimony; surname, dates, spouse and further descendants not yet documented. Maternal relationship not separately confirmed."
                         }
                       ]
                     },
@@ -1150,9 +1205,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 2, line 38",
                           "url": "Koplowitz_Pasternak.pdf#page=2"
+                        },
+                        {
+                          "label": "Kahan family tree: Michal Kahana (Tikochinsky) (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#michal-tikochinsky"
                         }
                       ],
-                      "note": "Report entry: Michal Cahana b: 26 Feb 1969\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Michal Cahana b: 26 Feb 1969\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "26 Feb 1969",
                       "spouses": [
                         {
@@ -1176,10 +1235,79 @@
                             {
                               "label": "Koplowitz_Pasternak.pdf, page 2, line 40",
                               "url": "Koplowitz_Pasternak.pdf#page=2"
+                            },
+                            {
+                              "label": "Kahan family tree: Eliav Tikochinsky (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#eliav-tikochinsky"
                             }
                           ],
-                          "note": "Report entry: Eliav Tikochinsky b: 16 Jan 1991\nParents as grouped in the report: Michal Cahana + Yakir Tikochinsky. This follows report placement, not independent verification.",
-                          "born": "16 Jan 1991"
+                          "note": "Report entry: Eliav Tikochinsky b: 16 Jan 1991\nParents as grouped in the report: Michal Cahana + Yakir Tikochinsky. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
+                          "born": "16 Jan 1991",
+                          "spouses": [
+                            {
+                              "key": "192",
+                              "name": "Maayan",
+                              "sources": [
+                                {
+                                  "label": "Spouse listed in the reviewed Kahan tree for Eliav Tikochinsky",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#eliav-tikochinsky"
+                                },
+                                {
+                                  "label": "Spouse profile or family evidence linked by the Kahan tree",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#eliav-household--15-october-2026"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Spouse listed for Eliav Tikochinsky. This preserves the source spouse claim; it does not independently assign the other parent of every child."
+                            }
+                          ],
+                          "children": [
+                            {
+                              "key": "193",
+                              "name": "Hila",
+                              "sources": [
+                                {
+                                  "label": "Kahan family tree: Hila (reviewed 21 October 2026)",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#hila-tikochinsky"
+                                },
+                                {
+                                  "label": "Kahan tree data, revision e7a3f0b",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                                },
+                                {
+                                  "label": "Hillel Kahana: family testimony, 15 October 2026 (daughters named)",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#eliavs-daughters-named--15-october-2026"
+                                },
+                                {
+                                  "label": "Hillel Kahana: family testimony, 15 October 2026 (birth date and Hila status)",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#eliav-birth-date-and-hila-status--15-october-2026"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Descendant-line parent: Eliav Tikochinsky. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nDaughter of Eliav, named by Hillel Kahana on 15 October 2026. Given name and relationship supplied by family testimony; surname and dates not supplied. Hillel confirmed on 15 October 2026 that Hila has no spouse or children as of that date. Maternal relationship not separately confirmed."
+                            },
+                            {
+                              "key": "194",
+                              "name": "Alma",
+                              "sources": [
+                                {
+                                  "label": "Kahan family tree: Alma (reviewed 21 October 2026)",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#alma-tikochinsky"
+                                },
+                                {
+                                  "label": "Kahan tree data, revision e7a3f0b",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                                },
+                                {
+                                  "label": "Hillel Kahana: family testimony, 15 October 2026 (daughters named)",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#eliavs-daughters-named--15-october-2026"
+                                },
+                                {
+                                  "label": "Hillel Kahana: family testimony, 15 October 2026 (Alma status)",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#alma-status--15-october-2026"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Descendant-line parent: Eliav Tikochinsky. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nDaughter of Eliav, named by Hillel Kahana on 15 October 2026. Given name and relationship supplied by family testimony; surname and dates not supplied. Hillel confirmed on 15 October 2026 that Alma has no spouse or children as of that date. Maternal relationship not separately confirmed."
+                            }
+                          ]
                         },
                         {
                           "key": "89",
@@ -1188,10 +1316,31 @@
                             {
                               "label": "Koplowitz_Pasternak.pdf, page 2, line 41",
                               "url": "Koplowitz_Pasternak.pdf#page=2"
+                            },
+                            {
+                              "label": "Kahan family tree: Renana Tikochinsky (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#renana-tikochinsky"
                             }
                           ],
-                          "note": "Report entry: Renana Tikochinsky b: 15 May 1992\nParents as grouped in the report: Michal Cahana + Yakir Tikochinsky. This follows report placement, not independent verification.",
-                          "born": "15 May 1992"
+                          "note": "Report entry: Renana Tikochinsky b: 15 May 1992\nParents as grouped in the report: Michal Cahana + Yakir Tikochinsky. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: The PDF reports 15 May 1992. Family testimony confirms the Hebrew birthday as 12 Iyar; 5752 is derived using the source-reported 1992 year. That Hebrew day spans sunset on 14 May into 15 May 1992. Birth time is unknown: neither civil date is established. The PDF field is retained as its claim.",
+                          "born": "15 May 1992",
+                          "spouses": [
+                            {
+                              "key": "195",
+                              "name": "Avihail Fogel",
+                              "sources": [
+                                {
+                                  "label": "Spouse listed in the reviewed Kahan tree for Renana Tikochinsky",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#renana-tikochinsky"
+                                },
+                                {
+                                  "label": "Spouse profile or family evidence linked by the Kahan tree",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#renana-spouse--15-october-2026"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Spouse listed for Renana Tikochinsky. This preserves the source spouse claim; it does not independently assign the other parent of every child."
+                            }
+                          ]
                         },
                         {
                           "key": "90",
@@ -1228,6 +1377,50 @@
                           ],
                           "note": "Report entry: Naomi Tikochinsky b: 08 Jul 1998\nParents as grouped in the report: Michal Cahana + Yakir Tikochinsky. This follows report placement, not independent verification.",
                           "born": "08 Jul 1998"
+                        },
+                        {
+                          "key": "196",
+                          "name": "Shulamit Tikochinsky",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Shulamit Tikochinsky (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#shulamit-tikochinsky"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Michal Tikochinsky family interview, 4 July 2019",
+                              "url": "https://www.inn.co.il/news/406366"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Shulamit-Tikochinsky/6000000002683180989"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Michal Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nChild of Michal and Yakir Tikochinsky, named in Michal’s July 2019 interview. Given name only; further descendants not yet documented. Reported age 19 in her 4 July 2019 interview. This is age evidence, not an exact birth date.\n\n20 October 2026 Geni source review: birth: April 03, 2000 Israel. These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.\n\nPrivate name review, 20 October 2026: the own Geni profile records Shulamit Tikochinsky and explicitly names the same two parents. The displayed surname is supported by this profile, not inferred from a parent. The family given-name spelling Shulamit is retained. The Geni wording is an attributed name variant, not independent original identity proof.",
+                          "born": "2000-04-03, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "197",
+                          "name": "Tamar (תמר)",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Tamar (תמר) (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#tamar-tikochinsky"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Michal Tikochinsky family interview, 4 July 2019",
+                              "url": "https://www.inn.co.il/news/406366"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Michal Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nChild of Michal and Yakir Tikochinsky, named in Michal’s July 2019 interview. Given name only; further descendants not yet documented. Reported age 12 in her 4 July 2019 interview. This is age evidence, not an exact birth date.",
+                          "born": "Age 12 in July 2019 (reported by mother; exact birth date unverified)."
                         }
                       ]
                     },
@@ -1238,9 +1431,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 2, line 45",
                           "url": "Koplowitz_Pasternak.pdf#page=2"
+                        },
+                        {
+                          "label": "Kahan family tree: Yael Adoram (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#yael-kahana"
                         }
                       ],
-                      "note": "Report entry: Yael Cahana b: 10 Jun 1970\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Yael Cahana b: 10 Jun 1970\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "10 Jun 1970",
                       "spouses": [
                         {
@@ -1300,10 +1497,49 @@
                             {
                               "label": "Koplowitz_Pasternak.pdf, page 2, line 50",
                               "url": "Koplowitz_Pasternak.pdf#page=2"
+                            },
+                            {
+                              "label": "Kahan family tree: Naomi Adoram (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000004754685003"
                             }
                           ],
-                          "note": "Report entry: Naomi Adoram b: 30 Sep 2002\nParents as grouped in the report: Yael Cahana + Ben-Zion Adoram. This follows report placement, not independent verification.",
+                          "note": "Report entry: Naomi Adoram b: 30 Sep 2002\nParents as grouped in the report: Yael Cahana + Ben-Zion Adoram. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: The PDF reports 30 September 2002. Hillel tentatively recalled that date; this was a guess, not exact-date confirmation. Geni reports circa 6 October 2002, Israel. The conflict remains unresolved; the PDF field is retained.",
                           "born": "30 Sep 2002"
+                        },
+                        {
+                          "key": "198",
+                          "name": "Aviad Adoram",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Aviad Adoram (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#aviad-adoram"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "User-supplied Geni screenshot, 19 October 2026; Ben Adoram parent roster",
+                              "url": "https://www.geni.com/people/Ben-Adoram/6000000003819914515"
+                            },
+                            {
+                              "label": "Geni: Yael Adoram parent roster (secondary tree)",
+                              "url": "https://www.geni.com/people/Yael-Adoram/6000000004724459007"
+                            },
+                            {
+                              "label": "Hillel Kahana: family confirmation, 19 October 2026",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#ben-and-yael-adorams-named-children--19-october-2026"
+                            },
+                            {
+                              "label": "Geni birth-date fields, reviewed 20 October 2026 (reported claims)",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#adoram-childrens-reported-birth-dates--20-october-2026"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/%D7%90%D7%91%D7%99%D7%A2%D7%93-%D7%90%D7%93%D7%95%D7%A8%D7%9D/6000000007559571629"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yael Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nHillel Kahana confirmed the five-child family roster on 19 October 2026, including Aviad Adoram as a child of Ben (Benzion) Adoram and Yael Adoram. The supplied Geni screenshot and the explicit son relationship support the name, parentage and sex. The earlier provisional relationship is now family-confirmed; no original vital record has been inspected. Overlapping records were confirmed to refer to the same family members, not additional children or another union. Birth-date claims are reviewed separately below; death dates, current life status, spouse and further descendants remain unestablished. No further spouse or child links were displayed in the inspected child profiles; that does not prove childlessness.\n\nBirth-date review, 20 October 2026: no usable reported birth date was established. Geni displays an automatically estimated broad range, which is not adopted as a birth date or year. Birth remains unknown; family-confirmed parentage does not supply a date.\n\n20 October 2026 Geni source review: . These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence."
                         }
                       ]
                     },
@@ -1314,9 +1550,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 2, line 51",
                           "url": "Koplowitz_Pasternak.pdf#page=2"
+                        },
+                        {
+                          "label": "Kahan family tree: Yedidia Kahana (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#yedidia-kahana"
                         }
                       ],
-                      "note": "Report entry: Yedidia Cahana b: 27 Nov 1973\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Yedidia Cahana b: 27 Nov 1973\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "27 Nov 1973",
                       "spouses": [
                         {
@@ -1344,6 +1584,86 @@
                           ],
                           "note": "Report entry: Efrat Cahana b: 31 Jul 1998\nParents as grouped in the report: Yedidia Cahana + Vardit Shachor. This follows report placement, not independent verification.",
                           "born": "31 Jul 1998"
+                        },
+                        {
+                          "key": "199",
+                          "name": "Shulem Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Shulem Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182039"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Shulem-Kahana/6000000002683182039"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yedidia Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Son of Yedidya Kahana and Vardit Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2000-01-21, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "200",
+                          "name": "Yonatan Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Yonatan Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182045"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Yonatan-Kahana/6000000002683182045"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yedidia Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Son of Yedidya Kahana and Vardit Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2002-03-14, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "201",
+                          "name": "Hodos Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Hodos Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182051"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Hodos-Kahana/6000000002683182051"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yedidia Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Daughter of Yedidya Kahana and Vardit Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2004-02-06, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "202",
+                          "name": "Dvir",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Dvir (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#dvir-yedidia-kahana"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Hillel Kahana: family corrections, 20 October 2026, 13:56",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yedidia Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nHillel corrected the household on 20 October 2026: Yedidia has no Rachel and has Dvir, born in 2013. This is a new family-supported identity, not a renamed Geni profile. No Geni ID, exact date, sex, surname, spouse or descendants are inferred from the rejected Rachel record.",
+                          "born": "2013 (family-confirmed year)"
                         }
                       ]
                     },
@@ -1354,9 +1674,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 3, line 3",
                           "url": "Koplowitz_Pasternak.pdf#page=3"
+                        },
+                        {
+                          "label": "Kahan family tree: Nachshon Kahana (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#nachshon-kahana"
                         }
                       ],
-                      "note": "Report entry: Nachshon Cahana b: 18 Mar 1975\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Nachshon Cahana b: 18 Mar 1975\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "18 Mar 1975",
                       "spouses": [
                         {
@@ -1371,6 +1695,144 @@
                           "note": "Report entry: Yael Blumental b: 28 Nov 1975, m: 30 May 1999\nMarriage: 30 May 1999",
                           "born": "28 Nov 1975"
                         }
+                      ],
+                      "children": [
+                        {
+                          "key": "203",
+                          "name": "אסנת ברלין",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: אסנת ברלין (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000189826896829"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/%D7%90%D7%A1%D7%A0%D7%AA-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/6000000189826896829"
+                            },
+                            {
+                              "label": "Geni Osnat Kahana: family-confirmed duplicate of Osnat Berlin",
+                              "url": "https://www.geni.com/people/Osnat-Kahana/6000000002683182063"
+                            },
+                            {
+                              "label": "Hillel Kahana: family corrections, 20 October 2026, 13:56",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026"
+                            },
+                            {
+                              "label": "Geni duplicate record: same person confirmed by family, 20 October 2026",
+                              "url": "https://www.geni.com/people/Osnat-Kahana/6000000002683182063"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Nachshon Cahana. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nOn 20 October 2026 Hillel confirmed the linked alternate record as a duplicate of this existing person. The local canonical key and all existing child links are retained; no extra person, child or copied date is created by reconciling the source identities. Individual date claims retain their own qualifications. Earlier uncertainty below is superseded for this alias.\n\nEarlier research notes, before the 13:56 family corrections:\n\n20 October 2026: this Geni profile explicitly states Daughter of נחשון כהנא. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.\n\nFamily confirmation of N.N. as Nachshon makes the Osnat Kahana record a possible match to this already displayed Osnat Berlin. Shared given name and father are not an independent identity bridge. No second Osnat node or unlinked birth date is added; this individual identity remains unresolved.",
+                          "spouses": [
+                            {
+                              "key": "204",
+                              "name": "יהודה ברלין",
+                              "sources": [
+                                {
+                                  "label": "Spouse listed in the reviewed Kahan tree for אסנת ברלין",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000189826896829"
+                                },
+                                {
+                                  "label": "Spouse profile or family evidence linked by the Kahan tree",
+                                  "url": "https://www.geni.com/people/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/332269444100004407"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Spouse listed for אסנת ברלין. This preserves the source spouse claim; it does not independently assign the other parent of every child."
+                            }
+                          ],
+                          "children": [
+                            {
+                              "key": "205",
+                              "name": "בארי ברלין",
+                              "sources": [
+                                {
+                                  "label": "Kahan family tree: בארי ברלין (reviewed 21 October 2026)",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000199817773824"
+                                },
+                                {
+                                  "label": "Kahan tree data, revision e7a3f0b",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                                },
+                                {
+                                  "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                                  "url": "https://www.geni.com/people/%D7%91%D7%90%D7%A8%D7%99-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/6000000199817773824"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Descendant-line parent: אסנת ברלין. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Son of יהודה ברלין and אסנת ברלין. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                              "born": "2023-11-05 (Geni-reported; unverified)"
+                            },
+                            {
+                              "key": "206",
+                              "name": "כרמל ברלין",
+                              "sources": [
+                                {
+                                  "label": "Kahan family tree: כרמל ברלין (reviewed 21 October 2026)",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000221865927856"
+                                },
+                                {
+                                  "label": "Kahan tree data, revision e7a3f0b",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                                },
+                                {
+                                  "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                                  "url": "https://www.geni.com/people/%D7%9B%D7%A8%D7%9E%D7%9C-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/6000000221865927856"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Descendant-line parent: אסנת ברלין. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Daughter of יהודה ברלין and אסנת ברלין. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                              "born": "2025-10-21 (Geni-reported; unverified)"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "207",
+                          "name": "Avital Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Avital Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182069"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni child profile: explicit N.N./Yael Rebecca parent links",
+                              "url": "https://www.geni.com/people/Avital-Kahana/6000000002683182069"
+                            },
+                            {
+                              "label": "Hillel Kahana: family testimony, 20 October 2026",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Nachshon Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nThe own Geni profile explicitly identifies this person as a son of N.N. Kahana and Yael Rebecca. Hillel confirmed N.N. as the existing Nachshon on 20 October 2026. The child relationship remains a qualified collaborative-tree claim; no original parentage record is asserted. The displayed source name is preserved, using the family spelling Shalom where Geni says Shulem. No birth date is imported in this addition, and missing spouse or child links do not establish their absence."
+                        },
+                        {
+                          "key": "208",
+                          "name": "Shalom Kahana",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Shalom Kahana (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182075"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni child profile: explicit N.N./Yael Rebecca parent links",
+                              "url": "https://www.geni.com/people/Shulem-Kahana/6000000002683182075"
+                            },
+                            {
+                              "label": "Hillel Kahana: family testimony, 20 October 2026",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Nachshon Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nThe own Geni profile explicitly identifies this person as a son of N.N. Kahana and Yael Rebecca. Hillel confirmed N.N. as the existing Nachshon on 20 October 2026. The child relationship remains a qualified collaborative-tree claim; no original parentage record is asserted. The displayed source name is preserved, using the family spelling Shalom where Geni says Shulem. No birth date is imported in this addition, and missing spouse or child links do not establish their absence."
+                        }
                       ]
                     },
                     {
@@ -1380,9 +1842,13 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 3, line 5",
                           "url": "Koplowitz_Pasternak.pdf#page=3"
+                        },
+                        {
+                          "label": "Kahan family tree: Elisheva Shezifi (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#elisheva-kahana"
                         }
                       ],
-                      "note": "Report entry: Elisheva Cahana b: 06 Aug 1976\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
+                      "note": "Report entry: Elisheva Cahana b: 06 Aug 1976\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
                       "born": "06 Aug 1976",
                       "spouses": [
                         {
@@ -1410,6 +1876,121 @@
                           ],
                           "note": "Report entry: Shalom Shezifi b: 19 Feb 1999\nParents as grouped in the report: Elisheva Cahana + Moshe Shezifi. This follows report placement, not independent verification.",
                           "born": "19 Feb 1999"
+                        },
+                        {
+                          "key": "209",
+                          "name": "Rebecca Shezifi",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Rebecca Shezifi (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182095"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Rebecca-Shezifi/6000000002683182095"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Elisheva Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Daughter of Moshe Baruch Shezifi and Elisheva Shezifi. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2001-03-14, Israel (Geni-reported; unverified)"
+                        },
+                        {
+                          "key": "210",
+                          "name": "Yissocher Shezifi",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Yissocher Shezifi (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182101"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Yissocher-Shezifi/6000000002683182101"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Elisheva Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Son of Moshe Baruch Shezifi and Elisheva Shezifi. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2003-02-02, Israel (Geni-reported; unverified)",
+                          "spouses": [
+                            {
+                              "key": "211",
+                              "name": "טל שזיפי",
+                              "sources": [
+                                {
+                                  "label": "Spouse listed in the reviewed Kahan tree for Yissocher Shezifi",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182101"
+                                },
+                                {
+                                  "label": "Spouse profile or family evidence linked by the Kahan tree",
+                                  "url": "https://www.geni.com/people/%D7%98%D7%9C-%D7%A9%D7%96%D7%99%D7%A4%D7%99/6000000208656889847"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Spouse listed for Yissocher Shezifi. This preserves the source spouse claim; it does not independently assign the other parent of every child. The household relationship remains provisional in the Kahan source."
+                            }
+                          ],
+                          "children": [
+                            {
+                              "key": "212",
+                              "name": "טוהר שזיפי",
+                              "sources": [
+                                {
+                                  "label": "Kahan family tree: טוהר שזיפי (reviewed 21 October 2026)",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000219153382843"
+                                },
+                                {
+                                  "label": "Kahan tree data, revision e7a3f0b",
+                                  "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                                },
+                                {
+                                  "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                                  "url": "https://www.geni.com/people/%D7%98%D7%95%D7%94%D7%A8/6000000219153382843"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Descendant-line parent: Yissocher Shezifi. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Daughter of Yissocher Shezifi and טל שזיפי. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status."
+                            }
+                          ]
+                        },
+                        {
+                          "key": "213",
+                          "name": "Shifra Shezifi",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Shifra Shezifi (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182107"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Shifra-Shezifi/6000000002683182107"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Elisheva Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Daughter of Moshe Baruch Shezifi and Elisheva Shezifi. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2004-12-27, Israel (Geni-reported; unverified)",
+                          "spouses": [
+                            {
+                              "key": "214",
+                              "name": "יונתן אריאל",
+                              "sources": [
+                                {
+                                  "label": "Spouse listed in the reviewed Kahan tree for Shifra Shezifi",
+                                  "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182107"
+                                },
+                                {
+                                  "label": "Spouse profile or family evidence linked by the Kahan tree",
+                                  "url": "https://www.geni.com/people/%D7%99%D7%95%D7%A0%D7%AA%D7%9F-%D7%90%D7%A8%D7%99%D7%90%D7%9C/6000000225000845824"
+                                }
+                              ],
+                              "note": "Kahan addition, 21 October 2026. Spouse listed for Shifra Shezifi. This preserves the source spouse claim; it does not independently assign the other parent of every child. The household relationship remains provisional in the Kahan source."
+                            }
+                          ]
                         }
                       ]
                     },
@@ -1444,10 +2025,53 @@
                         {
                           "label": "Koplowitz_Pasternak.pdf, page 3, line 10",
                           "url": "Koplowitz_Pasternak.pdf#page=3"
+                        },
+                        {
+                          "label": "Kahan family tree: Avia Prinz (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#avia-kahana"
                         }
                       ],
-                      "note": "Report entry: Avia Cahana b: 08 Aug 1980\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
-                      "born": "08 Aug 1980"
+                      "note": "Report entry: Avia Cahana b: 08 Aug 1980\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.\n\nAdditional source qualification from Kahan: 1 unnamed child/descendant slot(s) remain; no invented named person or additional exact birth date is added. See the linked source notes for the relationship and profile references.\n\nKahan comparison, 21 October 2026: Missing relatives below this entry were supplied by the reviewed Kahan tree. Existing PDF names, dates, spouse order and parent grouping are retained. Additional relationships keep their source qualifications.",
+                      "born": "08 Aug 1980",
+                      "spouses": [
+                        {
+                          "key": "215",
+                          "name": "Daniel Prinz",
+                          "sources": [
+                            {
+                              "label": "Spouse listed in the reviewed Kahan tree for Avia Prinz",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#avia-kahana"
+                            },
+                            {
+                              "label": "Spouse profile or family evidence linked by the Kahan tree",
+                              "url": "https://www.geni.com/people/Daniel/6000000002683182113"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Spouse listed for Avia Cahana. This preserves the source spouse claim; it does not independently assign the other parent of every child."
+                        }
+                      ],
+                      "children": [
+                        {
+                          "key": "216",
+                          "name": "Shulem",
+                          "sources": [
+                            {
+                              "label": "Kahan family tree: Shulem (reviewed 21 October 2026)",
+                              "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182119"
+                            },
+                            {
+                              "label": "Kahan tree data, revision e7a3f0b",
+                              "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                            },
+                            {
+                              "label": "Geni profile reviewed 20 October 2026 (secondary family-tree claims)",
+                              "url": "https://www.geni.com/people/Shulem/6000000002683182119"
+                            }
+                          ],
+                          "note": "Kahan addition, 21 October 2026. Descendant-line parent: Avia Cahana. Provisional collaborative-tree child relationship; not independent original-record proof. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\n20 October 2026: this Geni profile explicitly states Son of Daniel and Avia N.N.. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.",
+                          "born": "2001-06-04, Israel (Geni-reported; unverified)"
+                        }
+                      ]
                     },
                     {
                       "key": "110",
@@ -1496,6 +2120,34 @@
                       ],
                       "note": "Report entry: Yisca Cahana b: 13 Sep 1990\nParents as grouped in the report: Ruti Pasternak + Shalom Cahana. This follows report placement, not independent verification.",
                       "born": "13 Sep 1990"
+                    },
+                    {
+                      "key": "217",
+                      "name": "Rachel Kahana",
+                      "sources": [
+                        {
+                          "label": "Kahan family tree: Rachel Kahana (reviewed 21 October 2026)",
+                          "url": "https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000009327679384"
+                        },
+                        {
+                          "label": "Kahan tree data, revision e7a3f0b",
+                          "url": "https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html"
+                        },
+                        {
+                          "label": "Geni Rachel Kahana",
+                          "url": "https://www.geni.com/people/Rachel-Kahana/6000000009327679384"
+                        },
+                        {
+                          "label": "Hillel Kahana: family testimony, 14 October 2026",
+                          "url": "https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md"
+                        },
+                        {
+                          "label": "MyHeritage: Geni import (secondary tree)",
+                          "url": "https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=90423266&action=showRecord"
+                        }
+                      ],
+                      "note": "Kahan addition, 21 October 2026. Descendant-line parent: Ruti Pasternak. Relationship retained with the family/source qualifications in the Kahan notes below. The other parent is not inferred from spouse order. Dates are copied only with their source qualifications.\n\nHillel confirmed the existing Rachel entry (1972–1972) as an additional child who died in infancy. Her position in the birth order is not yet established; she is shown after the supplied list. Mother: Ruth née Pasternak.\n\n20 October 2026 Geni source review: birth: February 16, 1972 Israel; death: March 01, 1972 (2 weeks). These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.",
+                      "born": "1972-02-16, Israel (Geni-reported; unverified)"
                     }
                   ]
                 },

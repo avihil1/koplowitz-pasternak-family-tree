@@ -2,7 +2,7 @@
 
 A public family archive transcribed from **Outline Descendant Report for Yeruham Koplowitz**,
 the four-page `Koplowitz_Pasternak.pdf` supplied by Hillel. Includes **189 entries across seven generations**:
-126 entries in the descendant line and 63 spouse entries (one explicitly unnamed).
+126 entries in the descendant line and 63 spouse entries (one explicitly unnamed). The 21 October supplement adds 28 sourced Kahan entries, bringing the browsing tree to **217 entries: 148 in the descendant line and 69 spouse entries, across eight generations**.
 Repeated names are separate entries unless the source explicitly identifies them as one person.
 
 - **[Open the graphical tree](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html)** — connected branches, search, person details, zoom, drag, expand/collapse, and fit.
@@ -40,7 +40,7 @@ or identify its compiler. This archive records its claims, not independent confi
 - Ronit Michael's children are grouped under Rael Elk, not Harold Seligman.
 - Rosa Koplowitz's Max Warschauer is grouped under Richard Warschauer; Edith and Gerda under Bernard Zimmerman.
 - Edith's Bernie Winter is grouped under Winter, not Wolf.
-- No gender, current life status, unlisted relative, or identity match to another tree has been inferred.
+- No gender or current life status has been inferred. Added relatives and shared-household identity matches are explicitly sourced in the 21 October supplement; no unlisted relative is invented.
 
 ## Privacy
 
@@ -51,4 +51,41 @@ D3 v7.9.0 is bundled under `vendor/` with its upstream ISC license so the view a
 Keep the HTML beside the PDF and text/data files if you want its archive links to work locally.
 
 The browsing style and data conventions follow `avihil1/kahan-family-tree`; this archive remains separate
-and does not merge or overwrite that tree. Compiled 19 October 2026.
+and does not overwrite that tree. Its 21 October supplement copies missing relatives beneath the existing shared household. Compiled 19 October 2026.
+
+## Kahan additions — 21 October 2026
+
+Added **22 descendants and six spouses** beneath the existing Ruti Pasternak / Shalom Cahana household. Their thirteen originally listed children are matched by the shared household and documented name variants; the additional Rachel is the separately recorded 1972–1972 child. Kahan’s Shalom-rooted children attach beneath Ruti here, preserving Koplowitz descent and spouse orientation. Existing numeric keys, names, dates, spouse order, PDF citations and all original child links are retained. New entries continue the numeric keys after 189.
+
+Source: [reviewed Kahan tree, revision e7a3f0b](https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html). This is a source-qualified supplement, not an independent archival finding. Provisional Geni relationships remain provisional in the notes; spouse order does not establish the other parent. The unnamed child slot under Avia stays a note, without an invented name or additional exact birth date. The existing PDF claims for Ido, Renana and Naomi are retained alongside explicit conflict notes. Missing death dates do not establish life status.
+
+| Entry | Added person | Attached to existing/shared family | Source and confidence |
+| --- | --- | --- | --- |
+| 190 | Tehila Kahana (descendant) | Haim-Arie Cahana (#80) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#tehila-kahana) |
+| 191 | Yair (descendant) | Haim-Arie Cahana (#80) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#yair-kahana) |
+| 192 | Maayan (spouse) | Eliav Tikochinsky (#88) | [Source-qualified spouse claim](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#eliav-household--15-october-2026) |
+| 193 | Hila (descendant) | Eliav Tikochinsky (#88) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#hila-tikochinsky) |
+| 194 | Alma (descendant) | Eliav Tikochinsky (#88) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#alma-tikochinsky) |
+| 195 | Avihail Fogel (spouse) | Renana Tikochinsky (#89) | [Source-qualified spouse claim](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#renana-spouse--15-october-2026) |
+| 196 | Shulamit Tikochinsky (descendant) | Michal Cahana (#86) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#shulamit-tikochinsky) |
+| 197 | Tamar (תמר) (descendant) | Michal Cahana (#86) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#tamar-tikochinsky) |
+| 198 | Aviad Adoram (descendant) | Yael Cahana (#93) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#aviad-adoram) |
+| 199 | Shulem Kahana (descendant) | Yedidia Cahana (#99) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182039) |
+| 200 | Yonatan Kahana (descendant) | Yedidia Cahana (#99) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182045) |
+| 201 | Hodos Kahana (descendant) | Yedidia Cahana (#99) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182051) |
+| 202 | Dvir (descendant) | Yedidia Cahana (#99) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#dvir-yedidia-kahana) |
+| 203 | אסנת ברלין (descendant) | Nachshon Cahana (#102) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000189826896829) |
+| 204 | יהודה ברלין (spouse) | אסנת ברלין (#203) | [Source-qualified spouse claim](https://www.geni.com/people/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/332269444100004407) |
+| 205 | בארי ברלין (descendant) | אסנת ברלין (#203) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000199817773824) |
+| 206 | כרמל ברלין (descendant) | אסנת ברלין (#203) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000221865927856) |
+| 207 | Avital Kahana (descendant) | Nachshon Cahana (#102) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182069) |
+| 208 | Shalom Kahana (descendant) | Nachshon Cahana (#102) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182075) |
+| 209 | Rebecca Shezifi (descendant) | Elisheva Cahana (#104) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182095) |
+| 210 | Yissocher Shezifi (descendant) | Elisheva Cahana (#104) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182101) |
+| 211 | טל שזיפי (spouse) | Yissocher Shezifi (#210) | [Source-qualified spouse claim](https://www.geni.com/people/%D7%98%D7%9C-%D7%A9%D7%96%D7%99%D7%A4%D7%99/6000000208656889847) |
+| 212 | טוהר שזיפי (descendant) | Yissocher Shezifi (#210) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000219153382843) |
+| 213 | Shifra Shezifi (descendant) | Elisheva Cahana (#104) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182107) |
+| 214 | יונתן אריאל (spouse) | Shifra Shezifi (#213) | [Source-qualified spouse claim](https://www.geni.com/people/%D7%99%D7%95%D7%A0%D7%AA%D7%9F-%D7%90%D7%A8%D7%99%D7%90%D7%9C/6000000225000845824) |
+| 215 | Daniel Prinz (spouse) | Avia Cahana (#109) | [Source-qualified spouse claim](https://www.geni.com/people/Daniel/6000000002683182113) |
+| 216 | Shulem (descendant) | Avia Cahana (#109) | [Provisional source relationship](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000002683182119) |
+| 217 | Rachel Kahana (descendant) | Ruti Pasternak (#78) | [Retain family/source qualifications](https://avihil1.github.io/kahan-family-tree/tree.html#geni-6000000009327679384) |

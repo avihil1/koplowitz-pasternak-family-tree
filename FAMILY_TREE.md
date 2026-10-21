@@ -193,3 +193,68 @@ Indentation follows the descendant generations. Spouses are listed immediately u
         - Bernie Winter ([p. 4](Koplowitz_Pasternak.pdf#page=4))
         - Spouse: Wolf ([p. 4](Koplowitz_Pasternak.pdf#page=4))
       - Gerda Zimmerman d: Holocaust ([p. 4](Koplowitz_Pasternak.pdf#page=4))
+
+
+## Sourced additions — 21 October 2026
+
+The original 189-entry PDF transcription above is unchanged. These 28 supplementary entries use the same descendant/spouse convention and appear in both browsing views and structured data. Original names and dates remain as reported; additional relationship and date qualifications are in each entry’s source notes.
+
+### Ruti Pasternak — existing entry 78
+
+- Rachel Kahana b: 1972-02-16, Israel (Geni-reported; unverified) ([entry 217](index.html#person-217))
+
+### Haim-Arie Cahana — existing entry 80
+
+- Tehila Kahana b: 2003-02-21, Israel (Geni-reported; unverified) ([entry 190](index.html#person-190))
+- Yair ([entry 191](index.html#person-191))
+
+### Michal Cahana — existing entry 86
+
+- Shulamit Tikochinsky b: 2000-04-03, Israel (Geni-reported; unverified) ([entry 196](index.html#person-196))
+- Tamar (תמר) b: Age 12 in July 2019 (reported by mother; exact birth date unverified). ([entry 197](index.html#person-197))
+
+### Eliav Tikochinsky — existing entry 88
+
+- Spouse: Maayan ([entry 192](index.html#person-192))
+- Hila ([entry 193](index.html#person-193))
+- Alma ([entry 194](index.html#person-194))
+
+### Renana Tikochinsky — existing entry 89
+
+- Spouse: Avihail Fogel ([entry 195](index.html#person-195))
+
+### Yael Cahana — existing entry 93
+
+- Aviad Adoram ([entry 198](index.html#person-198))
+
+### Yedidia Cahana — existing entry 99
+
+- Shulem Kahana b: 2000-01-21, Israel (Geni-reported; unverified) ([entry 199](index.html#person-199))
+- Yonatan Kahana b: 2002-03-14, Israel (Geni-reported; unverified) ([entry 200](index.html#person-200))
+- Hodos Kahana b: 2004-02-06, Israel (Geni-reported; unverified) ([entry 201](index.html#person-201))
+- Dvir b: 2013 (family-confirmed year) ([entry 202](index.html#person-202))
+
+### Nachshon Cahana — existing entry 102
+
+- אסנת ברלין ([entry 203](index.html#person-203))
+  - Spouse: יהודה ברלין ([entry 204](index.html#person-204))
+  - בארי ברלין b: 2023-11-05 (Geni-reported; unverified) ([entry 205](index.html#person-205))
+  - כרמל ברלין b: 2025-10-21 (Geni-reported; unverified) ([entry 206](index.html#person-206))
+- Avital Kahana ([entry 207](index.html#person-207))
+- Shalom Kahana ([entry 208](index.html#person-208))
+
+### Elisheva Cahana — existing entry 104
+
+- Rebecca Shezifi b: 2001-03-14, Israel (Geni-reported; unverified) ([entry 209](index.html#person-209))
+- Yissocher Shezifi b: 2003-02-02, Israel (Geni-reported; unverified) ([entry 210](index.html#person-210))
+  - Spouse: טל שזיפי ([entry 211](index.html#person-211))
+  - טוהר שזיפי ([entry 212](index.html#person-212))
+- Shifra Shezifi b: 2004-12-27, Israel (Geni-reported; unverified) ([entry 213](index.html#person-213))
+  - Spouse: יונתן אריאל ([entry 214](index.html#person-214))
+
+### Avia Cahana — existing entry 109
+
+- Spouse: Daniel Prinz ([entry 215](index.html#person-215))
+- Shulem b: 2001-06-04, Israel (Geni-reported; unverified) ([entry 216](index.html#person-216))
+
+Source: [Kahan tree revision e7a3f0b](https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html).
