@@ -484,3 +484,69 @@ the evidence files and public tree.
 **Current conclusion:** the Mezerzitz Jacob/Friederike household is a useful new collateral lead.
 Salomon's parentage and the identity of his Yeruham remain unresolved. All three cemetery candidates
 stay separate and no candidate-only relative is added to the established tree.
+
+### Civil death-record search — 21 October 2026
+
+**Result:** Abraham's full civil death entry has not yet been inspected. The identity of the
+1907 Abraham son of Yerucham and the1870 groom remains unresolved. This pass established a useful
+negative in the Bytom index and exact Scharley acquisition references; it did not establish a new parent.
+
+The [Silius Radicum civil-index project](https://siliusradicum.pl/skorowidze-do-akt-usc/) publishes
+photographs of archive index books. Its
+[August2026 inventory](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/AB7hyWS6s01yjS7dQ0co5v4/Wykaz_skorowidze_08_2026.xlsx?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0)
+was downloaded and read to verify coverage. Indexes are finding aids, not substitutes for the full acts.
+
+#### Bytom: completed1907 K-section check
+
+Inspected and saved **12/749/0/4/568**, death index1904–1909, scans0076–0080, manuscript
+pages137–146. The1907 K entries begin partway down page137, continue through pages138–144,
+and end on page145 before the1908 entries. They are chronological within the initial-letter section,
+rather than strictly alphabetized by full surname.
+
+- [Scan0076, pages137–138](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/AFi-BAM37yXOr1YhQhqdu5U/12_749_BYTOM/12_749_568_Bytom_USC/12_749_0_4_568_0076.jpg?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0):1906/1907 boundary and early1907.
+- [Scan0077, pages139–140](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/AG3H0WiUhbyVr0b44yB5OkA/12_749_BYTOM/12_749_568_Bytom_USC/12_749_0_4_568_0077.jpg?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0).
+- [Scan0078, pages141–142](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/APBnDT3eEVBeHbA7mm1hlLk/12_749_BYTOM/12_749_568_Bytom_USC/12_749_0_4_568_0078.jpg?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0).
+- [Scan0079, pages143–144](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/AK2EUihS2MK9iLcvmW9CoOE/12_749_BYTOM/12_749_568_Bytom_USC/12_749_0_4_568_0079.jpg?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0): includes late1907.
+- [Scan0080, pages145–146](https://www.dropbox.com/scl/fo/kxr7yfpkgnkg59r05udr5/APYjYuhmzQVpnksclHc_DL0/12_749_BYTOM/12_749_568_Bytom_USC/12_749_0_4_568_0080.jpg?rlkey=405kzdw0v00u3ld8tn7ye6jzl&dl=0):1907/1908 boundary.
+
+No Abraham Koplowitz entry was identified in this complete1907 K section. This does not rule out a
+missed or misfiled entry, another spelling/initial, or registration in another district. In particular,
+Bytom burial does not establish a Bytom civil death registration. No civil act number was recovered.
+The Jewish register's entry676 remains a Jewish-register reference, not a civil act number.
+
+Coverage calibration images also saved:568/0002 (death index starts1904),569/0001–0003
+(cover and1910–1915 death-index pages),570/0000 (publisher cover), and567/0002
+(1934 marriage-index page, excluded). The inventory confirms the public Bytom death-index series
+starts1904; it cannot answer Salomon's reported1903 death. No1903 civil-index negative is claimed.
+
+#### Scharley / Szarlej: exact next records, contents not checked
+
+Scharley is Abraham's documented residence at his1870 marriage, making it a justified second district
+to check; his residence in1907 is not established. The official Katowice archive
+[Szarlej fonds listing](https://www.szukajwarchiwach.gov.pl/de/zespol/-/zespol/142965?_Zespol_delta=200&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_resetCur=false)
+identifies:
+
+| Record | Reference | Catalogue coverage |
+| --- | --- | --- |
+| Civil death book | **12/2699/0/3/105** |1907, acts1–281;148 scans listed |
+| Earlier death index | **12/2699/0/4/109** |1874–1921;272 scans listed |
+
+The [1907 death-book catalogue page](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/20558300)
+is retrievable through indexed official metadata, but direct browser access to the unit returnedHTTP403
+and the fonds page returned an unavailable-portlet message through the web reader. The images were
+not inspected. The positive scan listing must not be replaced by a claim that the book is undigitized.
+
+The publisher's public Szarlej folder lists only units238 and239. Its downloaded inventory identifies
+them as marriage and death indexes for1922–1933, so neither covers1907. A FamilySearch catalogue
+place search selecting **Scharley, Beuthen, Silesia, Prussia**, placeID9411638, returned zero titles
+with the note “SEE: PART OF SILESIA, BEUTHEN”; this is a place-catalogue limitation, not proof that
+FamilySearch has no relevant image elsewhere. No individual Scharley civil death search ran successfully.
+
+**Prepared acquisition:** ask Katowice to check the K/Koplowitz section of12/2699/0/4/109 for
+Abraham, reported death6 December1907, and supply the corresponding full act from12/2699/0/3/105
+if present. Seek age, birthplace, wife (candidate Dorel nee Jodkowitz), parents (candidate Jacob and
+Friederike), informant and margins. Do not supply676 as a civil act number. The existing Polish
+request has been expanded locally; no email was sent and no paid research was authorized.
+
+**Decision:** retain the Abraham/Jacob/Friederike household as an unattached lead. Neither Salomon's
+parents nor the identity of the Bierun1877 Jacob/Yerucham has been resolved by this pass.
