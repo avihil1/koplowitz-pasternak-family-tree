@@ -4,6 +4,9 @@ Transcribed from [Koplowitz_Pasternak.pdf](Koplowitz_Pasternak.pdf), four pages.
 
 Indentation follows the descendant generations. Spouses are listed immediately under their partner. Children belong to the preceding spouse group in the original report. The order of spouse groups is preserved; it is not necessarily chronological.
 
+The original report transcription below is unchanged. The browsing tree also includes the cited
+[21 October date/place research supplement](#dates-and-places--21-october-2026), with provisional matches labeled.
+
 - Yeruham Koplowitz ([p. 1](Koplowitz_Pasternak.pdf#page=1))
   - Spouse: [unknown spouse] ([p. 1](Koplowitz_Pasternak.pdf#page=1))
   - Salomon Koplowitz b: 1836, d: 09 Jul 1903 ([p. 1](Koplowitz_Pasternak.pdf#page=1))
@@ -258,3 +261,27 @@ The original 189-entry PDF transcription above is unchanged. These 28 supplement
 - Shulem b: 2001-06-04, Israel (Geni-reported; unverified) ([entry 216](index.html#person-216))
 
 Source: [Kahan tree revision e7a3f0b](https://github.com/avihil1/kahan-family-tree/blob/e7a3f0b5dd4b99575a6c8aaf8565fe79054feb49/tree.html).
+
+## Dates and places — 21 October 2026
+
+These updates enrich existing people; they do not add or rearrange relatives. Original report claims remain
+above and in each person's note. The place attached to Nathan and Herrmann describes their family's recorded
+location in the birth extract, rather than an independently stated birthplace.
+
+| Person | Added date / recorded place | Evidence and qualification |
+| --- | --- | --- |
+| [Salomon Koplowitz](index.html#person-3) | Marriage entry December 1867; innkeeper, Mezerzitz | [Filmed typed extract, page 38, entry 301/307](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69BV-J?cat=229955&i=177&lang=en); exact wedding day unresolved. |
+| [Marie Gruenpeter](index.html#person-4) | Same marriage entry; recorded residence Podlesie | Same filmed entry; residence is not adopted as birthplace. |
+| [Salo Koplowitz](index.html#person-5) | Possible Simon birth12 October 1868, Mezerzitz household | [Typed extract, page 96, entry 1337](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YG-4?cat=229955&i=107&lang=en); unresolved name difference, original1868 main field retained. |
+| [Heinrich Herman Zvi Koplowitz](index.html#person-9) | 30 June 1870; Mezerzitz household | [Typed extract, page 104, entry 1460](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YT-Y?cat=229955&i=116&lang=en); exact date and both parents match. |
+| [Nathan Koplowitz](index.html#person-141) | 18 October 1873; Mezerzitz household | [Typed extract, page 116, entry 1652](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69Y2-T?cat=229955&i=128&lang=en); parents explicitly Salomon and Marie nee Gruenpeter. |
+| [Rosa Koplowitz](index.html#person-181) | 6 November 1890, Jedlina | Provisional CRARG row 15066 household match. |
+| [Bernard Zimmerman](index.html#person-184) | 8 April 1895, Czestochowa | Provisional CRARG row 15065 household match. |
+| [Edith Zimmerman](index.html#person-185) | Alternative 1 February 1921, Bytom | Provisional CRARG row 15067; conflicts with report's Abt 1920, which remains in the main field. |
+| [Gerda Zimmerman](index.html#person-189) | 30 April 1926, Bytom | Provisional CRARG row 15068 household match. |
+
+CRARG source: [Cymerman household index](https://www.crarg.org/holocaust-records/cymerman-radomsko-czestochowa).
+The source says Cymerman and Edyta; these names are not silently substituted for Zimmerman and Edith.
+See the [research ledger](research/yeruham-koplowitz.md) for saved readings and outstanding identity checks.
+Yeruham, Eliezer, the Bierun Jacob/Yerucham and Fany candidates remain unlinked beyond the original report's
+existing father relationship; no candidate date is assigned to the report's Yeruham or unnamed spouse.

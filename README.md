@@ -16,7 +16,30 @@ Repeated names are separate entries unless the source explicitly identifies them
 
 ## Research
 
-[Read the Yeruham Koplowitz evidence ledger](research/yeruham-koplowitz.md). The 19 October 2026 pass found unresolved regional candidates; no new parent or spouse is established. Candidate notes are visible in both tree views.
+[Read the Yeruham Koplowitz evidence ledger](research/yeruham-koplowitz.md). The 21 October 2026 pass identifies
+Salomon and Marie's Pless/Mezerzitz household and adds cited birth details and recorded family places.
+Yeruham's identity and parents remain unresolved. Candidate notes and provisional dates are visible in both tree views.
+
+### Dates and places added — 21 October 2026
+
+The original report remains preserved in the PDF, transcription and original outline below. Research updates
+use the existing entries, names, relationships and browsing style; the total remains 217. The filmed Pless
+pages are typed extracts, not contemporary handwritten originals. JRI-Poland supplied the index references.
+
+| Existing entry | Research update | Source status |
+| --- | --- | --- |
+| Nathan Koplowitz | 18 October 1873; family recorded in Mezerzitz, Upper Silesia | Inspected filmed birth extract, page 116, entry 1652. |
+| Heinrich Herman Zvi Koplowitz | 30 June 1870 confirmed; family recorded in Mezerzitz | Inspected filmed birth extract, page 104, entry 1460; exact date and both parents match. |
+| Salomon Koplowitz / Marie Gruenpeter | December 1867 marriage entry; Salomon in Mezerzitz, Marie in Podlesie | Inspected filmed extract, page 38, entry 301/307; several dates, exact wedding day unresolved. |
+| Salo Koplowitz | Candidate Simon born 12 October 1868, same parents and place | Name difference unresolved; original name and 1868 date retained. |
+| Rosa Koplowitz | 6 November 1890, Jedlina | Provisional CRARG household match; labeled in the birth field. |
+| Bernard Zimmerman | 8 April 1895, Czestochowa | Provisional CRARG household match; labeled in the birth field. |
+| Edith Zimmerman | Alternative 1 February 1921, Bytom | Provisional conflict note; original Abt 1920 retained in the main field. |
+| Gerda Zimmerman | 30 April 1926, Bytom | Provisional CRARG household match; labeled in the birth field. |
+
+Exact image links, transcriptions, candidate distinctions and limitations are in the
+[evidence ledger](research/yeruham-koplowitz.md#salomon-household-and-competing-yeruham-candidates--21-october-2026).
+The Bytom Jeruham/Eliezer and Bierun Jacob/Yerucham candidates are not merged or attached as new parents.
 
 ## Reading the tree
 

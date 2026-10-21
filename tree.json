@@ -21,9 +21,25 @@
     {
       "label": "Tarnowskie Gory cemetery inventory: Feitel Koplowitz, father Jerucham, section 1/18/15 (unattached lead)",
       "url": "https://gliwicka66.pl/baza-wiedzy/inwentaryzacja-nagrobkow/"
+    },
+    {
+      "label": "JRI-Poland search form: record type R = Burials",
+      "url": "https://legacy.jri-poland.org/jriplweb-legacy.htm"
+    },
+    {
+      "label": "JewishGen: Bytom Old Jewish Cemetery, film 1184405 (collection provenance)",
+      "url": "https://www.jewishgen.org/databases/cemetery/jowbrshow.php?ID=POL-04049"
+    },
+    {
+      "label": "Bierun Jacob/Yerucham Koplowitz, father Yerucham, 2 May 1877 (unattached candidate)",
+      "url": "https://cemetery.jewish.org.pl/id_164419/info/"
+    },
+    {
+      "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+      "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
     }
   ],
-  "note": "Report entry: Yeruham Koplowitz\n\nResearch checkpoint, 19 October 2026: identity and parentage remain unresolved. A candidate Jeruham Kopplowitz is indexed in Bytom on 15 September 1862, entry 727, with father Eliezer. Type R is unverified; this date is not assigned as a birth or death. The original has not been inspected and no record yet connects this candidate to Salomon. Eliezer is not added as an established parent. Feitel Koplowitz, whose father is indexed as Jerucham in the Tarnowskie Gory cemetery inventory, remains an unattached collateral lead. See the research ledger for evidence, limitations and exact original-record requests.",
+  "note": "Report entry: Yeruham Koplowitz\n\nResearch checkpoint, 19 October 2026: identity and parentage remain unresolved. A candidate Jeruham Kopplowitz is indexed in Bytom on 15 September 1862, entry 727, with father Eliezer. The earlier uncertainty about type R is resolved: the JRI-Poland search form explicitly labels R as Burials. The indexed date is not yet distinguished as death versus burial. The original has not been inspected and no record yet connects this candidate to Salomon. Eliezer is not added as an established parent. Feitel Koplowitz, whose father is indexed as Jerucham in the Tarnowskie Gory cemetery inventory, remains an unattached collateral lead. See the research ledger for evidence, limitations and exact original-record requests.\n\nResearch update, 21 October 2026: Two separate candidates remain unlinked to Salomon (1836–9 July 1903): the Bytom Jeruham Kopplowitz, son of Eliezer, cemetery entry 727 dated 15 September 1862; and Jacob Koplowitz of Bierun, indexed Hebrew name Yerucham, father Yerucham, died 2 May 1877, grave 61. Their different fathers, dates and cemeteries must not be combined. The Bytom candidate's probable burial site is the Old Jewish Cemetery on today's Piastow Bytomskich Street; his original entry and plot have not been located. The new Pless/Mezerzitz family records identify Salomon's household but do not yet identify his father.",
   "spouses": [
     {
       "key": "2",
@@ -32,9 +48,17 @@
         {
           "label": "Koplowitz_Pasternak.pdf, page 1, line 3",
           "url": "Koplowitz_Pasternak.pdf#page=1"
+        },
+        {
+          "label": "Bierun Fany/Feigla Koplowitz, husband Yerucham (unattached candidate)",
+          "url": "https://cemetery.jewish.org.pl/id_164486/info/"
+        },
+        {
+          "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+          "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
         }
       ],
-      "note": "Report entry: [unknown spouse]"
+      "note": "Report entry: [unknown spouse]\n\nResearch update, 21 October 2026: The wife of the report's Yeruham remains unidentified. A Bierun cemetery entry for Fany/Feigla Koplowitz, indexed death 24 October 1869, names her father Dov and husband Yerucham. She is an unattached spouse candidate; neither her husband's identity with the report's Yeruham nor maternity of Salomon has been established."
     }
   ],
   "children": [
@@ -45,9 +69,25 @@
         {
           "label": "Koplowitz_Pasternak.pdf, page 1, line 4",
           "url": "Koplowitz_Pasternak.pdf#page=1"
+        },
+        {
+          "label": "Filmed Pless marriage extract, page 38, entry 301/307; image 178 (typed extract)",
+          "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69BV-J?cat=229955&i=177&lang=en"
+        },
+        {
+          "label": "Herrmann birth extract, 30 June 1870, entry 1460",
+          "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YT-Y?cat=229955&i=116&lang=en"
+        },
+        {
+          "label": "Nathan birth extract, 18 October 1873, entry 1652",
+          "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69Y2-T?cat=229955&i=128&lang=en"
+        },
+        {
+          "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+          "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
         }
       ],
-      "note": "Report entry: Salomon Koplowitz b: 1836, d: 09 Jul 1903\nParents as grouped in the report: Yeruham Koplowitz + [unknown spouse]. This follows report placement, not independent verification.",
+      "note": "Report entry: Salomon Koplowitz b: 1836, d: 09 Jul 1903\nParents as grouped in the report: Yeruham Koplowitz + [unknown spouse]. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: The filmed Pless marriage extract, page 38, entry 301/307, names Salomon Koplowitz, an innkeeper (Gastwirt) in Mezerzitz, and Marie Grunpeter of Podlesie in December 1867. JRI-Poland indexes 17 December 1867 as the marriage date/place Pless. The inspected typed extract reads \"V.17.Dez,E.Pless,18.Dez. E.Nicolai,21.Dez.1867.\" The abbreviations and exact event date remain unresolved; no single day is adopted as verified. Podlesie is her recorded residence, not a proved birthplace. Neither spouse's parents are named in this entry. This is a filmed typed extract, not the contemporary handwritten register. The 1870 and 1873 birth extracts identify Salomon and Marie as Herrmann's and Nathan's parents and record the household in Mezerzitz, Upper Silesia (modern Miedzyrzecze near Pszczyna). His reported 1836 birth and 9 July 1903 death are retained; neither event's place is supplied by these extracts.",
       "born": "1836",
       "died": "09 Jul 1903",
       "spouses": [
@@ -70,9 +110,25 @@
             {
               "label": "Research ledger — identity and source limitations",
               "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
+            },
+            {
+              "label": "Filmed Pless marriage extract, page 38, entry 301/307; image 178 (typed extract)",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69BV-J?cat=229955&i=177&lang=en"
+            },
+            {
+              "label": "Herrmann birth extract, parents Salomon and Marie",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YT-Y?cat=229955&i=116&lang=en"
+            },
+            {
+              "label": "Nathan birth extract, parents Salomon and Marie",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69Y2-T?cat=229955&i=128&lang=en"
+            },
+            {
+              "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Marie Gruenpeter b: 05 Oct 1848, d: 17 May 1932\n\nResearch checkpoint, 19 October 2026: a matching newspaper OCR notice places Marie Koplowitz nee Grunpeter in Beuthen at Kaiserstrasse 7, dated 17 May 1932, in her 84th year. This supports a Bytom research route; the newspaper image and original vital record remain uninspected. The historical JRI extract lists entry 1806, age 83, film 1184405. No relationship to the candidate Jeruham is established by sharing a film.",
+          "note": "Report entry: Marie Gruenpeter b: 05 Oct 1848, d: 17 May 1932\n\nResearch checkpoint, 19 October 2026: a matching newspaper OCR notice places Marie Koplowitz nee Grunpeter in Beuthen at Kaiserstrasse 7, dated 17 May 1932, in her 84th year. This supports a Bytom research route; the newspaper image and original vital record remain uninspected. The historical JRI extract lists entry 1806, age 83, film 1184405. No relationship to the candidate Jeruham is established by sharing a film.\n\nResearch update, 21 October 2026: The filmed Pless marriage extract, page 38, entry 301/307, names Salomon Koplowitz, an innkeeper (Gastwirt) in Mezerzitz, and Marie Grunpeter of Podlesie in December 1867. JRI-Poland indexes 17 December 1867 as the marriage date/place Pless. The inspected typed extract reads \"V.17.Dez,E.Pless,18.Dez. E.Nicolai,21.Dez.1867.\" The abbreviations and exact event date remain unresolved; no single day is adopted as verified. Podlesie is her recorded residence, not a proved birthplace. Neither spouse's parents are named in this entry. This is a filmed typed extract, not the contemporary handwritten register. The 1870 and 1873 birth extracts explicitly name Marie, nee Grunpeter, with Salomon as the parents in Mezerzitz. Her reported birth and death dates are retained.",
           "born": "05 Oct 1848",
           "died": "17 May 1932"
         }
@@ -85,9 +141,17 @@
             {
               "label": "Koplowitz_Pasternak.pdf, page 1, line 6",
               "url": "Koplowitz_Pasternak.pdf#page=1"
+            },
+            {
+              "label": "Possible Salo match: Simon birth extract, page 96, entry 1337 (identity unresolved)",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YG-4?cat=229955&i=107&lang=en"
+            },
+            {
+              "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Salo Koplowitz b: 1868 in Meseritz Upper silesia\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.",
+          "note": "Report entry: Salo Koplowitz b: 1868 in Meseritz Upper silesia\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: Possible matching birth: the filmed Pless typed extract, page 96, entry 1337, records Simon, born 12 October 1868, parents Salomon Koplowitz and Marie nee Grunpeter, household in Mezerzitz. This agrees with Salo's reported year, place and parents, but the given-name difference is unresolved. Salo is not renamed Simon and the exact day is not adopted as his established birth date. The report's Meseritz wording is retained.",
           "born": "1868 in Meseritz Upper silesia",
           "spouses": [
             {
@@ -138,10 +202,18 @@
             {
               "label": "Koplowitz_Pasternak.pdf, page 1, line 10",
               "url": "Koplowitz_Pasternak.pdf#page=1"
+            },
+            {
+              "label": "Filmed Pless birth extract, page 104, entry 1460; image 117",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69YT-Y?cat=229955&i=116&lang=en"
+            },
+            {
+              "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Heinrich Herman Zvi Koplowitz b: 30 Jun 1870, d: 23 Oct 1952 in Hadera\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.",
-          "born": "30 Jun 1870",
+          "note": "Report entry: Heinrich Herman Zvi Koplowitz b: 30 Jun 1870, d: 23 Oct 1952 in Hadera\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: The filmed Pless typed birth extract, page 104, entry 1460, records Herrmann on 30 June 1870, parents Salomon Koplowitz and Marie nee Grunpeter; Salomon is an innkeeper and the household is in Mezerzitz. The exact date and both parents match this report entry. The place is recorded for the household in the birth extract; a separate birthplace statement has not been inspected. Modern place: Miedzyrzecze near Pszczyna, Upper Silesia. The existing display name and death details are retained.",
+          "born": "30 Jun 1870 (family recorded in Mezerzitz, Upper Silesia)",
           "died": "23 Oct 1952 in Hadera",
           "spouses": [
             {
@@ -2511,9 +2583,17 @@
             {
               "label": "Koplowitz_Pasternak.pdf, page 3, line 42",
               "url": "Koplowitz_Pasternak.pdf#page=3"
+            },
+            {
+              "label": "Filmed Pless birth extract, page 116, entry 1652; image 129",
+              "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDB-69Y2-T?cat=229955&i=128&lang=en"
+            },
+            {
+              "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Nathan Koplowitz\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.",
+          "note": "Report entry: Nathan Koplowitz\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: The filmed Pless typed birth extract, page 116, entry 1652, records Nathan on 18 October 1873, parents Salomon Koplowitz and Marie nee Grunpeter; Salomon is an innkeeper and the household is in Mezerzitz. This matches the existing named child and parent pair. The place describes the household in the birth extract; a separate birthplace statement has not been inspected. Modern place: Miedzyrzecze near Pszczyna, Upper Silesia.",
           "spouses": [
             {
               "key": "142",
@@ -2579,7 +2659,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "born": "18 Oct 1873 (family recorded in Mezerzitz, Upper Silesia)"
         },
         {
           "key": "147",
@@ -3033,9 +3114,17 @@
             {
               "label": "Koplowitz_Pasternak.pdf, page 4, line 31",
               "url": "Koplowitz_Pasternak.pdf#page=4"
+            },
+            {
+              "label": "CRARG Cymerman household, rows 15065–15068 (search-indexed extract; provisional match)",
+              "url": "https://www.crarg.org/holocaust-records/cymerman-radomsko-czestochowa"
+            },
+            {
+              "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+              "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
             }
           ],
-          "note": "Report entry: Rosa Koplowitz d: Holocaust\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.",
+          "note": "Report entry: Rosa Koplowitz d: Holocaust\nParents as grouped in the report: Salomon Koplowitz + Marie Gruenpeter. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: Provisional household identification: CRARG row 15066 gives Roza Koplowitz/Cymerman, birth 6 November 1890 in Jedlina, parents Salomon and Maria Grunpeter, with husband Bernard. Adjacent rows name daughters Edyta and Gerda, matching this report's household. The index uses Cymerman rather than Zimmerman. The original and full collection heading are not inspected; the birth details remain visibly provisional. No death date or place is inferred from this listing.",
           "died": "Holocaust",
           "spouses": [
             {
@@ -3057,10 +3146,19 @@
                 {
                   "label": "Koplowitz_Pasternak.pdf, page 4, line 34",
                   "url": "Koplowitz_Pasternak.pdf#page=4"
+                },
+                {
+                  "label": "CRARG Cymerman household, rows 15065–15068 (search-indexed extract; provisional match)",
+                  "url": "https://www.crarg.org/holocaust-records/cymerman-radomsko-czestochowa"
+                },
+                {
+                  "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+                  "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
                 }
               ],
-              "note": "Report entry: Bernard Zimmerman d: Holocaust",
-              "died": "Holocaust"
+              "note": "Report entry: Bernard Zimmerman d: Holocaust\n\nResearch update, 21 October 2026: Provisional household identification: CRARG row 15065 gives Bernard Cymerman, birth 8 April 1895 in Czestochowa, parents Mendel and Estera Szlezynger. The adjacent Roza Koplowitz and daughters Edyta/Gerda match the report's household. Cymerman/ Zimmerman identity is not proved by spelling alone. These index-only birth details remain provisional; no new parents are attached.",
+              "died": "Holocaust",
+              "born": "08 Apr 1895 in Czestochowa (provisional household match)"
             }
           ],
           "children": [
@@ -3082,9 +3180,17 @@
                 {
                   "label": "Koplowitz_Pasternak.pdf, page 4, line 35",
                   "url": "Koplowitz_Pasternak.pdf#page=4"
+                },
+                {
+                  "label": "CRARG Cymerman household, rows 15065–15068 (search-indexed extract; provisional match)",
+                  "url": "https://www.crarg.org/holocaust-records/cymerman-radomsko-czestochowa"
+                },
+                {
+                  "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+                  "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
                 }
               ],
-              "note": "Report entry: Edith Zimmerman b: Abt 1920\nParents as grouped in the report: Rosa Koplowitz + Bernard Zimmerman. This follows report placement, not independent verification.",
+              "note": "Report entry: Edith Zimmerman b: Abt 1920\nParents as grouped in the report: Rosa Koplowitz + Bernard Zimmerman. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: Provisional conflicting birth detail: CRARG row 15067 gives Edyta Cymerman, born 1 February 1921 in Bytom, parents Bernard and Roza Koplowitz. This is a possible match to Edith in the same household, but conflicts with the report's approximate 1920 year. The original report value stays in the main birth field; the exact date and place remain an explicit provisional alternative.",
               "born": "Abt 1920",
               "spouses": [
                 {
@@ -3131,12 +3237,22 @@
                 {
                   "label": "Koplowitz_Pasternak.pdf, page 4, line 39",
                   "url": "Koplowitz_Pasternak.pdf#page=4"
+                },
+                {
+                  "label": "CRARG Cymerman household, rows 15065–15068 (search-indexed extract; provisional match)",
+                  "url": "https://www.crarg.org/holocaust-records/cymerman-radomsko-czestochowa"
+                },
+                {
+                  "label": "Research ledger — source readings and identity limits, updated 21 October 2026",
+                  "url": "https://github.com/avihil1/koplowitz-pasternak-family-tree/blob/main/research/yeruham-koplowitz.md"
                 }
               ],
-              "note": "Report entry: Gerda Zimmerman d: Holocaust\nParents as grouped in the report: Rosa Koplowitz + Bernard Zimmerman. This follows report placement, not independent verification.",
-              "died": "Holocaust"
+              "note": "Report entry: Gerda Zimmerman d: Holocaust\nParents as grouped in the report: Rosa Koplowitz + Bernard Zimmerman. This follows report placement, not independent verification.\n\nResearch update, 21 October 2026: Provisional household identification: CRARG row 15068 gives Gerda Cymerman, born 30 April 1926 in Bytom, parents Bernard and Roza Koplowitz, listed with her parents and sister Edyta. This matches the report's family grouping. The source surname is Cymerman; original-record and identity verification remain outstanding. No exact death date or place is supplied by this listing.",
+              "died": "Holocaust",
+              "born": "30 Apr 1926 in Bytom (provisional household match)"
             }
-          ]
+          ],
+          "born": "06 Nov 1890 in Jedlina (provisional household match)"
         }
       ]
     }
